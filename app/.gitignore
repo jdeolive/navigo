@@ -7,3 +7,4 @@ dist
 bower_components
 app/bower_components
 assets/css/main.css
+config.override.js
